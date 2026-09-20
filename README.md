@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DashingZahid
+- 👋 Hi, I’m @MuhammadZahid
 - 👀 I’m interested in Information Technology.
 - 🌱 I’m currently learning Developing chatbots , NLP, AWS. 
 - 💞️ I’m looking to collaborate on Can't get this.
